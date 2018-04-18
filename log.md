@@ -22,3 +22,11 @@
 **Thoughts**: I don't know what happend if i write in text editor :D
 
 **Link(s) to work**: [FreeCodeCamp Bootstrap Part 1](https://www.freecodecamp.org/challenges/style-text-inputs-as-form-controls)
+
+### Day 4: April 18, 2018
+
+**Today's Progress**: Finishing bootstrap and learn some basic jQuery
+
+**Thoughts**: Why use  jQuery to addClass or removeClass if you can do it on the CSS ???
+
+**Link(s) to work**: [FreeCodeCamp jQuery Part 1](https://www.freecodecamp.org/challenges/disable-an-element-using-jquery)
