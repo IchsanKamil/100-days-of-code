@@ -36,3 +36,9 @@
 **Today's Progress**: Still learn jQuery on freeCodeCamp and Udemy
 
 **Thoughts**: Yeah jQuery make it easier and I forgot to tweet last night
+
+### Day 6: April 21, 2018
+
+**Today's Progress**: Finished some basic jQuery and working on Basic Front End Development Projects
+
+**Thoughts**: Who will be the person to choose ? Late post
