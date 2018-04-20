@@ -30,3 +30,8 @@
 **Thoughts**: Why use  jQuery to addClass or removeClass if you can do it on the CSS ???
 
 **Link(s) to work**: [FreeCodeCamp jQuery Part 1](https://www.freecodecamp.org/challenges/disable-an-element-using-jquery)
+
+### Day 5: April 20, 2018
+
+**Today's Progress**: Still learn jQuery on freeCodeCamp and Udemy
+**Thoughts**: Yeah jQuery make it easier
